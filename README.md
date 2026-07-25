@@ -56,7 +56,6 @@ Publish your first package
 Contributors
 1
  (1)
-@lavanyamakireddy1
-lavanyamakireddy1
+@poojitha chinni
 Footer
 © 2026 GitH
